@@ -7,11 +7,9 @@
       "outputs": [".next/**", "!.next/cache/**"]
     },
     "start": {
-      "cache": false,
       "dependsOn": ["^build"]
     },
     "sb#build": {
-      "dependsOn": ["ui#build"],
       "outputs": ["storybook-static/**"]
     },
     "lint": {},
