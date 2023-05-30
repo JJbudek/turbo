@@ -1,0 +1,4 @@
+import{H as o,j as n}from"./index-425636bd.js";import"./index-8db94870.js";import"./_commonjsHelpers-042e6b4d.js";const m={title:"Molecules/Header",component:o,parameters:{layout:"padded",design:{type:"figma",url:"https://www.figma.com/file/991v0a2HbBRFp0ALon4R9Z/%F0%9F%A9%BA-GPNotebook-Design-System---Final?node-id=217%3A54208&t=X0bHJRUfiFw6XYgV-1"}},argTypes:{title:{control:{type:"text"}}},args:{title:"Hello world"}},e={render:s=>n.jsx(o,{...s})};var r,t,a;e.parameters={...e.parameters,docs:{...(r=e.parameters)==null?void 0:r.docs,source:{originalSource:`{
+  render: args => <Header {...args} />
+}`,...(a=(t=e.parameters)==null?void 0:t.docs)==null?void 0:a.source}}};const l=["Base"];export{e as Base,l as __namedExportsOrder,m as default};
+//# sourceMappingURL=Header.stories-9320b85c.js.map
