@@ -4,7 +4,7 @@ export default function Page() {
   return (
     <>
       <Header title="Lorem ipsum" />
-      <Button label="Test 2" />
+      <Button label="Test 3" />
     </>
   );
 }
